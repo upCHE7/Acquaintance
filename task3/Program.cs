@@ -1,6 +1,5 @@
+int i = 1;
+int i1 = 2;
+int sum = i + i1;
+Console.WriteLine(sum);
 
-Console.WriteLine(d);
-Console.WriteLine(b);
-Console.WriteLine(c);
-Console.WriteLine(d + c)
-1234
